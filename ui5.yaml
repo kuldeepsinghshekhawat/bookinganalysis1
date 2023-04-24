@@ -29,4 +29,4 @@ server:
       afterMiddleware: fiori-tools-appreload
       configuration:
         component: fin.de.demo.bookinganalysis1
-        ui5Theme: sap_horizon
+        ui5Theme: themelib_sap_fiori_3
